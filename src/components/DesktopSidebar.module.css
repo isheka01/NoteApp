@@ -1,0 +1,39 @@
+.bg{
+    background-color: white;
+    width: 25vw;
+    height: 100vh;
+    /* border-right: 1px solid black; */
+}
+
+.h{
+    color: black;
+    font-size: 31.52px;
+    font-family:  Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin-left: 25px;
+    margin-top: 30px;
+}
+.create{
+    background-color: black;
+   border-radius: 2rem;
+    height:5vh;
+    width: 18vw;
+    margin-left: 44px;
+    margin-top: 27px;
+    text-align: center;
+    justify-content: center;
+    padding: 8px;
+}
+
+.txt{
+    color: white;
+   font-family: Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 20px;
+    letter-spacing: 2%;
+}
+
+.tx{
+    color: white;
+   font-family: Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 20px;
+    letter-spacing: 2%;
+}
